@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-clibpp-master.flake = false;
+  inputs.src-clibpp-master.ref   = "refs/heads/master";
   inputs.src-clibpp-master.owner = "onionhammer";
-  inputs.src-clibpp-master.ref   = "master";
   inputs.src-clibpp-master.repo  = "clibpp.git";
   inputs.src-clibpp-master.type  = "github";
   
