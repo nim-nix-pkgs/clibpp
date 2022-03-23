@@ -12,7 +12,7 @@
   ],
   "heads": [
     {
-      "desc": "Easy way to 'Mock' C++ interface",
+      "description": "Easy way to 'Mock' C++ interface",
       "license": "MIT",
       "name": "clibpp",
       "ref": "refs/heads/master",

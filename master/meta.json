@@ -1,8 +1,0 @@
-{
-  "desc": "Easy way to 'Mock' C++ interface",
-  "license": "MIT",
-  "name": "clibpp",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/onionhammer/clibpp.git",
-  "version": "master"
-}
