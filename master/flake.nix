@@ -11,7 +11,6 @@
   inputs.src-clibpp-master.ref   = "refs/heads/master";
   inputs.src-clibpp-master.owner = "onionhammer";
   inputs.src-clibpp-master.repo  = "clibpp";
-  inputs.src-clibpp-master.dir   = "";
   inputs.src-clibpp-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
