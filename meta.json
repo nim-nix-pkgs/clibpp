@@ -7,30 +7,9 @@
   "license": "MIT",
   "web": "https://github.com/onionhammer/clibpp",
   "refs": [
-    "refs/heads/master",
+    "error: RPC failed; curl 16 Error in the HTTP2 framing layer",
+    "fatal: expected flush after ref listing",
     ""
   ],
-  "heads": [
-    {
-      "name": "clibpp",
-      "version": "0.1",
-      "author": "Erik O'Leary",
-      "desc": "Easy way to 'Mock' C++ interface",
-      "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [],
-      "installFiles": [
-        "clibpp.nim"
-      ],
-      "installExt": [],
-      "requires": [],
-      "bin": [],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/heads/master"
-    }
-  ]
+  "heads": []
 }
