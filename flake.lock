@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668775757,
-        "narHash": "sha256-NioVCfjshhytKc5QtJUCK56c9vpPIEXd8ELCMTPHFEA=",
+        "lastModified": 1669431038,
+        "narHash": "sha256-2ZUu2i9V2efVQl/ttxapDwlxQsNBMAI8y0b6W2hDI6I=",
         "owner": "nim-nix-pkgs",
         "repo": "clibpp",
-        "rev": "f0f868b5c8382d91fd09f702bfcfb406355caa93",
+        "rev": "059eafdb205f4e62b2a4a25fe99b3c9b230e7737",
         "type": "github"
       },
       "original": {
